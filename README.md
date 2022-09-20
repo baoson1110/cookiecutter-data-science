@@ -27,6 +27,7 @@ $ conda install cookiecutter
 ------------
 
     cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/mysketches/data-science-blueprint
 
 
 [![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
